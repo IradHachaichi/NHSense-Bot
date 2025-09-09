@@ -140,11 +140,7 @@ graph TD
 
 ---
 
-## 📄 License
 
-This project is for educational use. Please respect the NHS terms of service and copyright when using their data.
-
----
 
 ## 🤝 Contributing
 
